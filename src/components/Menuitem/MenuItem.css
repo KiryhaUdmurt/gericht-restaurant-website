@@ -29,7 +29,7 @@
 }
 
 .app__menuItem-price {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
 }
